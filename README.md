@@ -2,7 +2,7 @@
 
 # Description
 
-Refactoring the Website to meet SEO standards. Main features include refactoring the div elements into section elements, general formatting and renaming of obscure classes. 
+Refactoring the Website to meet SEO standards. Main features include refactoring the div elements into section elements, general formatting and renaming of obscure classes. Alongside this some light normalisation of the CSS was performed, namely putting the quotes around the Calibri family type and ensuring the CSS refered to the new section elements as opposed to the old div elements.
 
 # Installation
 
